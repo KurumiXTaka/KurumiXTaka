@@ -1,5 +1,5 @@
 ## Kenalin Gw Kurumi
-
+![kurumi](img/suki-daisuki.gif)
 - 🔭 Hanya programmer pemula 
 - 🌱 Subscribe My [**Youtube**](https://www.youtube.com/@firzasagala8686) Channel 
 - 😄 Follow My [**Fesnuk**](https://www.facebook.com/kang.kenang.560/) :D
