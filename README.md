@@ -1,4 +1,9 @@
-## Hi there 👋
+## Kenalin Gw Kurumi
+
+- 🔭 Hanya programmer pemula 
+- 🌱 Subscribe My [**Youtube**](https://www.youtube.com/@firzasagala8686) Channel 
+- 😄 Follow My [**Fesnuk**](https://www.facebook.com/kang.kenang.560/) :D
+
 
 <!--
 **KurumiXTaka/KurumiXTaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
