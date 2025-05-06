@@ -19,6 +19,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KurumiXTaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 ---
 
 <picture>
@@ -28,6 +34,8 @@
 </picture>
 
 ###
+
+
 [![](https://visitcount.itsvg.in/api?id=KurumiXTaka&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
