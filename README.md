@@ -19,11 +19,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KurumiXTaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-<img src="https://raw.githubusercontent.com/KurumiXTaka/KurumiXTaka/output/snake.svg" alt="Snake animation" />
+### 🎧 Come Hear Music With Me
+<div align="center">
+  <a href="https://open.spotify.com/user/31uowwakej2gs7gslhvpl7qatoum">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uowwakej2gs7gslhvpl7qatoum&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=KurumiXTaka&icon=5&color=0)](https://visitcount.itsvg.in)
