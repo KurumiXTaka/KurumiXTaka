@@ -19,6 +19,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KurumiXTaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+#
+
 ### 🎧 Come Hear Music With Me
 <div align="center">
   <a href="https://open.spotify.com/user/31uowwakej2gs7gslhvpl7qatoum">
