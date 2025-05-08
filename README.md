@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KurumiXTaka/count.svg?"  />
+</div>
+
+###
 # 💫 About Me:
 ## Hello I'm KurumiXTaka<br>
 
