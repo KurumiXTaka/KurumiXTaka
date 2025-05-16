@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello I'm KurumiXTaka<br>
-
+![banner](img/3000.png)
 ![my wife](img/kurumi.gif)
 
 ## 🌐 Connect With Me
